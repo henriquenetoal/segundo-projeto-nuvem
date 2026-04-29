@@ -5,7 +5,7 @@ const app = express();
 const PORT = 3000;
 
 app.get("/", (req, res) => {
-  res.send("<h1>Página Inicial</h1><p>Meu projeto Node.js está funcionando!</p>");
+  res.send("<h1>Página Inicial</h1><p>Meu projeto Node.js está funcionando muuito!</p>");
 });
 
 app.get("/sobre", (req, res) => {
