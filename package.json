@@ -1,0 +1,12 @@
+{
+  "name": "segundo-projeto-nuvem",
+  "version": "1.0.0",
+  "description": "Aplicação Node.js com três rotas HTML",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
